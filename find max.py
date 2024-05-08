@@ -1,1 +1,1 @@
-sfsl
+# Find a maximum of two numbers
